@@ -1,8 +1,18 @@
 #portrait-image {
+    height: 200px;
     border: 15px solid white;
     border-radius: 50%;
 }
 
 #intro {
     text-align: center;
+}
+
+/* .LI-profile-badge {
+    background-color: white;
+    width: 100%;
+} */
+
+#linkedin-badge *{
+    color: white;
 }
