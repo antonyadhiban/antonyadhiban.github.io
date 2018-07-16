@@ -1,0 +1,81 @@
+body {
+    font-family: "Playfair Display", serif; 
+    }
+  
+  .header {
+  }
+  
+  .header--name{
+    font-size: 5em;
+    font-weight: 900;
+  /*   text-transform: uppercase; */
+  }
+  
+  .img-fit {
+    width: 100%;
+  }
+  
+  
+  .above-nav {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+  }
+  .content {
+    font-size: 4em;
+    display: flex;
+  /*   align-items: center; */
+    justify-content: center;
+  /*   color: white; */
+    font-family: 'Playfair Display', serif;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .classic-box {
+      color: black;
+      padding: 20px;
+      border: 1px solid black;
+      box-shadow: 10px 10px;
+      background-color: #fdfdfd;
+      background-image: url("https://www.transparenttextures.com/patterns/handmade-paper.png");
+  }
+  
+  .photo-box {
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    background-image: url("https://i.pinimg.com/564x/4e/89/1a/4e891a1c888f5f276fcc52aeb1b53d7d.jpg");
+    border-radius: 10px;
+  }
+  
+  
+  /* navbar style */
+  .navbar {
+    margin: 20px 0px;
+    border: 1px solid black;
+    box-shadow: 10px 10px;
+    background-color: #fdfdfd;
+    background-image: url("https://www.transparenttextures.com/patterns/handmade-paper.png");
+  }
+  
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    font-size:2em; 
+  }
+  
+  li {
+      float: left;
+  }
+  
+  li a {
+      display: block;
+    color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+  
